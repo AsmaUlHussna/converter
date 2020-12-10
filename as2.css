@@ -1,0 +1,184 @@
+body {
+  
+  
+
+
+
+  
+  
+}
+
+.bgcentre{
+	max-width: 960px;
+    margin: auto;
+	padding: 2px;
+}
+
+.htext01{
+	font-size: 25px;
+	font-weight:bold;
+	font-family: arial;
+	color: #2c3e50;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+.quoteBox{
+	
+    border-width: 5px;
+	border-style: solid;
+    border-color: #2c3e50;
+    color: #2c3e50;
+	font-size:20px;
+	font-style:italic;
+	font-family: arial;
+	padding: 20px;
+	text-align: center;
+    text-decoration: none;
+    font-weight:bold;
+    
+	
+	 
+    text-justify:auto;
+	
+	
+}
+
+.b01 {
+	
+	
+    background-color: #16a085;
+    border: none;
+    color: white;
+	width: 35px;
+	height: 35px;
+    
+    text-align: center;
+    text-decoration: none;
+    
+    
+    
+    cursor: pointer;
+	margin:5px 0px;
+	
+}
+
+.b02 {
+	
+	
+    background-color: #2980b9;
+    border: none;
+    color: white;
+	
+    width: 35px;
+	height: 35px;
+    text-align: center;
+    text-decoration: none;
+    
+    
+    
+    cursor: pointer;
+	margin:5px 0px;
+	
+}
+
+.b03 {
+	
+	
+    background-color: #8e44ad;
+    border: none;
+    color: white;
+	
+    width: 35px;
+	height: 35px;
+    text-align: center;
+    text-decoration: none;
+    
+   
+    
+    cursor: pointer;
+	margin:5px 0px;
+	
+}
+
+.b04 {
+	
+	
+    background-color: #c0392b;
+    border: none;
+    color: white;
+	
+    width: 35px;
+	height: 35px;
+    text-align: center;
+    text-decoration: none;
+    
+   
+    
+    cursor: pointer;
+	margin:5px 0px;
+	
+}
+
+
+
+.inputBox{
+	
+	margin-right: 10px;
+	
+}
+
+.dropdownBox{
+	
+	margin-right: 10px;
+	
+	
+	
+	
+}
+
+.button1{
+	margin-right: 10px;
+}
+
+.conBox{
+	padding: 10px;
+	border-width: 2px;
+	border-style: solid;
+    border-color: #2c3e50;
+    color: black;
+	font-size: 20px;
+	font-weight:bold;
+	font-family: arial;
+}
+.conBox a {
+	color: #d95459;
+}
+
+h2 {
+    
+  
+    font-size: 20px;
+	
+	font-family: arial;
+	color: #2c3e50;
+	text-decoration: none;
+	
+}
+
+.magicBox{
+	border-width: 2px;
+	border-style: solid;
+    border-color: #2c3e50;
+    
+	padding: 5px 15px;
+	
+}
+
+.none{
+	
+	display: inline-block;
+}
+
